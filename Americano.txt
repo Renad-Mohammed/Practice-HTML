@@ -1,0 +1,71 @@
+<html>
+  <head>
+    <title>Iced Americano</title>
+  </head>
+
+
+  <body bgcolor="F6F6EB">
+    <Center>
+      <font color="brown">
+        <h1> Iced Americano </h1></font>
+        <img src="americano.png" alt="Americano" width="350" height="250">
+    </Center>
+    <font color="Brown" >
+        <h3> What is an iced Americano really? </h3></font>
+<pre>
+The Americano originated in Italy in the 1950s.
+
+American soldiers who were stationed there after World War II, found the flavor of espresso to be too intense.
+So they’d often order espresso diluted with hot water, which resulted in a drink that resembled
+the brewed coffee they were accustomed to at home.
+</pre>
+<font color="Brown" >
+ <caption><b>The Ingredients :</b></caption>
+</font>
+<table border="3" bgcolor="F5E6E2" >
+  <tr>
+    <td> 1 </td>
+    <td> ½ cup ice </td>
+  </tr>
+  <tr>
+    <td> 2 </td>
+    <td> doubleshot Espresso </td>
+  </tr>
+  <tr>
+    <td> 3 </td>
+    <td> cold water (optional) </td>
+  </tr>
+</table>
+
+         <br>
+         <font color="Brown" >
+         <h3><b>Procedure : </b></h3>
+         </font>
+         <ul>
+          <li> Pour cold water into a cup. </li>
+          <li> Add espresso. </li>
+          <li>  Top drink with ice.  </li>
+        </ul>
+       
+        <br>
+        <center>
+        <h4> <img src="3.png" alt="Prefer" width="400" height="300">
+          <br>
+          <br>
+          <br>
+          <input type="radio" name="coffee"> Hot Coffee
+          <input type="radio" name="coffee"> Iced Coffee
+          <input type="radio" name="coffee"> I don't drink coffee
+        </center>
+        <hr>
+        <center> 
+          <table border="3" bgcolor=F5E6E2>
+          <tr>
+            <th> Made By </th>
+          <tr>
+            <td> Renad Mohammed Alradaan </td>
+          </tr>
+        </table> </center>
+
+  </body>
+</html>
